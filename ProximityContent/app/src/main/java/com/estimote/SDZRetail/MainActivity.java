@@ -1,4 +1,4 @@
-package com.estimote.proximitycontent;
+package com.estimote.SDZRetail;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -7,10 +7,10 @@ import android.widget.TextView;
 
 import com.estimote.coresdk.cloud.model.Color;
 import com.estimote.coresdk.common.requirements.SystemRequirementsChecker;
-import com.estimote.proximitycontent.estimote.BeaconID;
-import com.estimote.proximitycontent.estimote.EstimoteCloudBeaconDetails;
-import com.estimote.proximitycontent.estimote.EstimoteCloudBeaconDetailsFactory;
-import com.estimote.proximitycontent.estimote.ProximityContentManager;
+import com.estimote.SDZRetail.estimote.BeaconID;
+import com.estimote.SDZRetail.estimote.EstimoteCloudBeaconDetails;
+import com.estimote.SDZRetail.estimote.EstimoteCloudBeaconDetailsFactory;
+import com.estimote.SDZRetail.estimote.ProximityContentManager;
 
 import java.util.Arrays;
 import java.util.HashMap;

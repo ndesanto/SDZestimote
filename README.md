@@ -2,9 +2,9 @@
 
 ## Project Description
 
-### Goal: Allow for visitor tracking on Ryerson Athletic Centre's weights room
+### Goal: Allow for visitor tracking on Ryerson Athletic Centre
 
-We are attempting to use Estimote beacons and the associated SDK to track visitors as they use the various machines and areas in the weights room. This data will be used by Retail Management students consultign with the RAC to provide them with relevant insights that cna used to enhance RAC services. 
+We are attempting to use Estimote beacons and the associated SDK to track visitors as they use the various machines and areas in the weights room. This data will be used by Retail Management students consulting with the RAC to provide them with relevant insights that cna used to enhance RAC services.
 
 ### Team: 
 - [Sameer Mehta](https://www.github.com/smehtaca)

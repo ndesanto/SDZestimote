@@ -1,4 +1,4 @@
-package com.estimote.proximitycontent.estimote;
+package com.estimote.SDZRetail.estimote;
 
 
 import com.estimote.coresdk.observation.region.beacon.BeaconRegion;

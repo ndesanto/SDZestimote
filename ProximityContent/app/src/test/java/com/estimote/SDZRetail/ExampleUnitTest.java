@@ -1,4 +1,4 @@
-package com.estimote.proximitycontent;
+package com.estimote.SDZRetail;
 
 import org.junit.Test;
 

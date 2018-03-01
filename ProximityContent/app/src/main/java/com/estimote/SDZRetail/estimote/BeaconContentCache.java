@@ -1,4 +1,4 @@
-package com.estimote.proximitycontent.estimote;
+package com.estimote.SDZRetail.estimote;
 
 import java.util.HashMap;
 import java.util.Map;

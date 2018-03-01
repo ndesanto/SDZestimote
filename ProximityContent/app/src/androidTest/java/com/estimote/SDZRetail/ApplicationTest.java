@@ -1,4 +1,4 @@
-package com.estimote.proximitycontent;
+package com.estimote.SDZRetail;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
