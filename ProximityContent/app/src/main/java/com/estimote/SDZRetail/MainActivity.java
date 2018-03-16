@@ -43,9 +43,12 @@ public class MainActivity extends AppCompatActivity {
         proximityContentManager = new ProximityContentManager(this,
                 Arrays.asList(
                         // TODO: replace with UUIDs, majors and minors of your own beacons
-                        new BeaconID("CF29B506-9C2F-5122-5431-F40538D99A96", 50560, 5440),
-                        new BeaconID("2846C549-862A-C966-3B8F-C539928898A0", 12156, 19757),
-                        new BeaconID("D26CB7B8-AC52-7584-89D2-27E1EE5699FD", 48607, 20285)),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 50560, 5440),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 12156, 19757),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 48607, 20285),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 11872, 20281),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 22637, 36183),
+                        new BeaconID("B9407F30-F5F8-466E-AFF9-25556B57FE6D", 44817, 47528)),
                 new EstimoteCloudBeaconDetailsFactory());
         proximityContentManager.setListener(new ProximityContentManager.Listener() {
             @Override
